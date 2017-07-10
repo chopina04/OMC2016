@@ -1,6 +1,6 @@
 # OMC2016
 
-Jeu de données sur l'Organisation Mondiale du Commerce en 2016 (membres et observateurs principaux, litiges commerciaux entre pays, notamment Etats abordés dasn le cadre du programme de Géographie de Terminale ES/L/S, commerce de marchandises)<br>
+Jeu de données sur l'Organisation Mondiale du Commerce en 2016 (membres et principaux observateurs, litiges commerciaux entre pays, notamment Etats abordés dasn le cadre du programme de Géographie de Terminale ES/L/S, commerce de marchandises)<br>
 
 Données issues du site de l'OMC consulté en juillet 2017<br>
 URL : https://www.wto.org/indexfr.htm<br>
